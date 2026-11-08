@@ -85,7 +85,7 @@ namespace WKLocalizationDebugger.Scanners
             );
             RegisterOriginalText(
                 "Gamemodes",
-                "ModifierUnlockDescriptions",
+                "ModifierAppends",
                 "-" + gamemodeSetting.nameAppend
             );
         }
